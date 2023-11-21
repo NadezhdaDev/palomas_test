@@ -1,0 +1,4 @@
+enum CategoryGoods {
+  beverages,
+  pizza,
+}
